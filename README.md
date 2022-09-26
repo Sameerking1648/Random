@@ -6,6 +6,7 @@ git clone https://github.com/Sameerking1648/Random
 
 cd Random 
 
+git pull
 
 python Random.py
 
