@@ -1,2 +1,2 @@
 from Random import xyz
-import xyz()
+xyz()
